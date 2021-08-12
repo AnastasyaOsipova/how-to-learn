@@ -3,6 +3,7 @@
   grid-template-columns: 240px 240px 240px;
   gap: 60px 100px;
   align-self: stretch;
-  margin: 0 0 0 100px;
+  margin: 60px auto 100px;
+  width: 920px;
 
       }
